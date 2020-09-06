@@ -15,6 +15,25 @@ motorunda bile belli başlı Google dork'ları kullanmayı bilirseniz sizi biraz
 
 Örneğin Google üzerinde bir kitabı aramak var bir de bu kitabı; (kitap ismi filetype: pdf) gibi arama biçimi var bunları öğrenmek yukarıda belirttiğim gibi sizi öne geçirecektir.
 </details>
+
+<details>
+<summary>Yazılım Dilleri ve Alanları:</summary>
+ ***Front-end'de (Sitenin kullanıcı arayüzü) kullanılan diller:***
+
+HTML - Web sayfalarının hazırlanmasında kullanılan sistemdir. Basitçe, bir websitesinin temel iskeletini html oluşturur. Öğrenmesi çok kolaydır. Birkaç saat harcayarak öğrenebilirsiniz. Web uygulama güvenliği için gereklidir.
+
+CSS - Sayesinde web sayfalarının mizanpajı, renkleri, kullanılan fontlar, ara başlıklar, görsel efektler ve diğer görsel unsurlar üzerinde etkili ve fonksiyonel bir kontrol sağlayabilirsiniz. Kısaca sitelerin çalışma mekanizmasını etkilemez. Web uygulama güvenliği için gerekli değildir. 
+
+Javascript - Kısaca web sayfalarına hareket katar, JavaScript sayesinde tarayıcının kullanıcıyla etkileşimde bulunması, tarayıcının kontrol edilmesi, asenkron bir şekilde sunucu ile iletişime geçilmesi ve web sayfası içeriğinin değiştirilmesi gibi işlevler sağlanır. JavaScript, Node.js gibi platformlar sayesinde backend'de (sunucu tarafında) da yaygın olarak kullanılmaktadır. Web uygulama güvenliği için okunacak kadar bilinmelidir.
+
+Popüler Front End Frameworkler: React.js , Vue , Angular.
+
+**Vue.js:** aşamalı bir JavaScript framework’üdür. Vue.js, basitliği ve hızlı öğrenme özellikleriyle öne çıkmaktadır. Rakiplerinden (React ve Angular) daha hızlı DOM (Document Object Model) manipülasyonuna sahip ve giderek daha popüler hale gelmektedir.
+
+**React:** front-end kısmında en çok konuşulan frameworklerden biri. Çünkü oldukça geniş bir topluluğa sahip. Ayrıca kardeşi olan React Native, mobil cihazlar söz konusu olduğunda daha da kolay hale getiriyor. React, Vue’den farklı çünkü React’ti öğrenme zor olsa da sözdizimi ve onunla nasıl çalışacağınızı kavradığınızda harika uygulamalar oluşturabilirsiniz.
+
+**Angular:** Google tarafından sağlanan devasa bir front-end framework’üdür. Angular, JS Vanilla veya ECMA Script’in farklı bir versiyonu olan TypeScript kullanan bir MVC (Model-View-Controller) framework’üdür. Angular bizlere birçok yararlı araç ve hazır uygulama getirdiği için önerilmektedir.
+</details>
 <details>
 <summary>Diğer Sorular:</summary>
  # Diğer Sorular
