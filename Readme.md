@@ -2,6 +2,7 @@
 
 <details>
 <summary>Aramayı Bilmek:</summary>
+
 ## ARAŞTIRMA - NOT ALMA
 
 ## Araştırma üzerine;
@@ -18,7 +19,8 @@ motorunda bile belli başlı Google dork'ları kullanmayı bilirseniz sizi biraz
 
 <details>
 <summary>Yazılım Dilleri ve Alanları:</summary>
- ***Front-end'de (Sitenin kullanıcı arayüzü) kullanılan diller:***
+
+ ## Front-end'de (Sitenin kullanıcı arayüzü) kullanılan diller:
 
 HTML - Web sayfalarının hazırlanmasında kullanılan sistemdir. Basitçe, bir websitesinin temel iskeletini html oluşturur. Öğrenmesi çok kolaydır. Birkaç saat harcayarak öğrenebilirsiniz. Web uygulama güvenliği için gereklidir.
 
@@ -36,7 +38,8 @@ Popüler Front End Frameworkler: React.js , Vue , Angular.
 </details>
 <details>
 <summary>Diğer Sorular:</summary>
- # Diğer Sorular
+
+ ## Diğer Sorular
 
 ### Hangi işletim sistemini kullanmalıyım?
 
