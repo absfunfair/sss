@@ -62,3 +62,17 @@ Tryhackme den sonra kendinizi CTF çözümleri için hackthebox ile sınamaya ve
 Maalesef İngilizce olmazsa olmazlardan biri. İngilizce'niz diyalog seviyesinde şahane olmasa bile, en azından okuduğunuz teknik bir makaleyi anlayabilmeniz lazım. Bunun sebebi de türkçe kaynakların sınırlı olması ingilizcenin global kabul gören bir dil olması. Çoğu bilgi genel olarak baktığınızda İngilizce olarak yazılır. İngilizce'nizi olması sizi sadece bu sektörde değil, bizim coğrafyamız da genel olarak öne geçirir.
 
 </details>
+
+<details>
+<summary>Web Uygulama Güvenliği:</summary>
+
+ # yakında
+
+</details>
+ 
+<details>
+<summary>Kaynaklar:</summary>
+
+ # yakında
+
+</details>
